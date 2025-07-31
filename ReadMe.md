@@ -28,7 +28,7 @@ InterviewAnalyzer takes a recorded interview (MP3/WAV or a URL), transcribes it 
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/interview-analyzer.git
+git clone https://github.com/toni-ramchandani/Voxtral_InterviewAnalyzer.git
 cd interview-analyzer
 ````
 
