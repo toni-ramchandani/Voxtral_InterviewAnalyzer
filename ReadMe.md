@@ -123,5 +123,4 @@ MIT License
 
 ---
 
-Let me know if you'd like the screenshot placeholder replaced with an actual image or need deployment instructions for Hugging Face Spaces or Docker.
 ```
